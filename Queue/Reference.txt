@@ -1,0 +1,6 @@
+> Queue is a user defined datastructure implimented using other ds like linked list, array and so on.
+
+> it follows first in first out principle
+> Enqueue - inserting data into queue
+> Dequeue - Deleting data fron queue
+> Front , Rear

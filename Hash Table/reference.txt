@@ -1,0 +1,18 @@
+hash functions takes the key and returns the index.
+hash functions are uses lists or array to store the data
+
+operarions
+
+find
+update
+insert
+list
+
+ord convert a charecter into number
+
+it does not convert a string
+
+factors affecting the performance of the Hash Table:
+    - Load Balancer - ratio of the number of total buckets in the list to the total size of the list
+    - Hash Function
+    - size of table
